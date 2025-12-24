@@ -13,3 +13,6 @@ greet: function() {
 }
 
 person.greet();
+
+1st-
+person.greet();
