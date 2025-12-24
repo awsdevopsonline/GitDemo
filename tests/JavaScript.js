@@ -18,3 +18,7 @@ person.greet();
 person.greet();
 
 A - DEVELOP -1st 
+
+person.greet();
+
+B - DEVELOP -2st 
