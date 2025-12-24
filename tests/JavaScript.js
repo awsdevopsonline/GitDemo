@@ -22,3 +22,9 @@ A - DEVELOP -1st
 person.greet();
 
 B - DEVELOP -2st 
+
+
+
+person.greet();
+
+B - MASTER -3st 
