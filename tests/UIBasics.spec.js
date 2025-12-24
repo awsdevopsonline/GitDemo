@@ -35,3 +35,11 @@ test("UI Basics4", async ({page}) => {
     await page.locator("a[aria-label='Gmail ']").click();
     console.log("HELLO WORLD 3");
 });
+
+
+test("UI Basics55", async ({page}) => {
+    await page.goto("https://google.com");
+    await page.locator("[title='Search']").fill("punnam@gmail.com");
+    await page.locator("a[aria-label='Gmail ']").click();
+    console.log("HELLO WORLD 3");
+});
